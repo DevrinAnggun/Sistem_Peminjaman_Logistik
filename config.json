@@ -1,0 +1,23 @@
+{
+    "ruangan": [
+        "REK-201",
+        "REK-202",
+        "REK-203",
+        "IOT-201",
+        "IOT-202",
+        "IOT-204",
+        "DSP-201",
+        "DSP-202",
+        "DSP-203",
+        "DC-201",
+        "DC-202",
+        "DC-203",
+        "AULA REKTORAT"
+    ],
+    "barang": [
+        "microphone",
+        "bendera",
+        "kursi dan meja",
+        "kabel"
+    ]
+}

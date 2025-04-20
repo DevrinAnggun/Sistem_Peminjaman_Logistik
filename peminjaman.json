@@ -1,0 +1,12 @@
+[
+    {
+        "nama": "AAA",
+        "organisasi": "HMDKV",
+        "item": "kabel",
+        "jenis": "barang",
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20 22:01:46",
+        "tanggal_kembali": "2025-04-23 22:01:46",
+        "status": "Sudah Dikembalikan"
+    }
+]

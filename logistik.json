@@ -1,0 +1,62 @@
+[
+    {
+        "nama": "anggun",
+        "organisasi": "HMSI",
+        "jenis": "Ruangan",
+        "item": "REK-201",
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20",
+        "tanggal_pengembalian": "2025-04-23",
+        "status": "Sudah Dikembalikan"
+    },
+    {
+        "nama": "anggun",
+        "organisasi": "HMSE",
+        "jenis": "Ruangan",
+        "item": "REK-202",
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20",
+        "tanggal_pengembalian": "2025-04-23",
+        "status": "Sudah Dikembalikan"
+    },
+    {
+        "nama": "devrin",
+        "organisasi": "HMTI",
+        "jenis": "Barang",
+        "item": "kursi dan meja",
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20",
+        "tanggal_pengembalian": "2025-04-23",
+        "status": "Belum Dikembalikan"
+    },
+    {
+        "nama": "anggun",
+        "organisasi": "HMSE",
+        "item": "kabel",
+        "ruangan": "REK-201",
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20 21:54:00",
+        "tanggal_kembali": "2025-04-23 21:54:00",
+        "status": "Belum Dikembalikan"
+    },
+    {
+        "nama": "Devrin",
+        "organisasi": "HMSE",
+        "item": "microphone",
+        "ruangan": null,
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20 21:56:37",
+        "tanggal_kembali": "2025-04-23 21:56:37",
+        "status": "Belum Dikembalikan"
+    },
+    {
+        "nama": "ANGGUN",
+        "organisasi": "HMTB",
+        "item": "kabel",
+        "ruangan": null,
+        "jaminan": "Y",
+        "tanggal_pinjam": "2025-04-20 21:57:58",
+        "tanggal_kembali": "2025-04-23 21:57:58",
+        "status": "Belum Dikembalikan"
+    }
+]
